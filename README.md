@@ -1,1 +1,1 @@
-# Germany-electricity-gneration
+# Germany-electricity-generation
